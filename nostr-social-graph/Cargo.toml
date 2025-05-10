@@ -7,6 +7,6 @@ edition = "2021"
 heed = "0.20.5"
 serde_json = "1.0.132"
 url = "2.5.3"
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.43", features = ["full"] }
 nostr-sdk = "0.35"
 log = "0.4"
